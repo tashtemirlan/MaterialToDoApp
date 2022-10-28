@@ -1,12 +1,18 @@
 # Materail To Do App
+# Project
+**Welcome! Here is an soft to do flutter app. Eye-loved design, a very fast and user enjoyable notes where you can store any task!** 
+# Project Idea
 
-**Material To Do App completed in Material Design Style**
+**The idea for this project was to create a to do list flutter app**
+* **Create enjoyable ui to make notes**
+* **Store data in SQL**
+* **Make notes completed and be able to delete them**
 
 # Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-MySQLite-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Design-MaterialDesign-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-Flutter-blue)
+![](https://shields.io/badge/DataBase-SQL-orange)
+![](https://shields.io/badge/Design-MaterialDesign-blueviolet)
 # Available On
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
